@@ -4,7 +4,7 @@
 
 The Vision Room project is built for placing objects and interacting with them in your apartment using an Apple Vision Pro device.
 
-## See our tutorial posts:
+## See our tutorial post:
 
 [How to Build a visionOS App: Perpetio’s Experience](https://perpet.io/blog/how-to-build-a-visionos-app-perpetios-experience/)
 
